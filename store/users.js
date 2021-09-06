@@ -5,8 +5,8 @@ const users = [
     email: "judge@domain.com",
     password: "OHSHackathon2021",
     socials: {
-      snap: "hi234",
-      insta: "34r3f",
+      snap: "judge_snap",
+      insta: "judges",
     },
   },
   {
@@ -15,8 +15,8 @@ const users = [
     email: "john@domain.com",
     password: "12345",
     socials: {
-      snap: "hi234",
-      insta: "34r3f",
+      snap: "john_snap",
+      insta: "john",
     },
   },
   {
@@ -25,8 +25,8 @@ const users = [
     email: "claire@domain.com",
     password: "12345",
     socials: {
-      snap: "hi234",
-      insta: "34r3f",
+      snap: "claire_snap",
+      insta: "claire",
     },
   },
   {
@@ -35,8 +35,8 @@ const users = [
     email: "welch@domain.com",
     password: "12345",
     socials: {
-      snap: "hi234",
-      insta: "34r3f",
+      snap: "felicity_snap",
+      insta: "felicity",
     },
   },
   {
@@ -45,8 +45,8 @@ const users = [
     email: "ava@domain.com",
     password: "12345",
     socials: {
-      snap: "hi234",
-      insta: "34r3f",
+      snap: "ava_snap",
+      insta: "ava",
     },
   },
   {
@@ -55,8 +55,28 @@ const users = [
     email: "bower@domain.com",
     password: "12345",
     socials: {
-      snap: "hi234",
-      insta: "34r3f",
+      snap: "thomas_snap",
+      insta: "thomas",
+    },
+  },
+  {
+    id: 7,
+    name: "Mary Mills",
+    email: "mary@domain.com",
+    password: "12345",
+    socials: {
+      snap: "mary_snap",
+      insta: "mary",
+    },
+  },
+  {
+    id: 8,
+    name: "Laurenz Ellen",
+    email: "ellen@domain.com",
+    password: "12345",
+    socials: {
+      snap: "laurenz_snap",
+      insta: "laurenz",
     },
   },
 ];

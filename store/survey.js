@@ -240,8 +240,8 @@ const survey = [
         value: "Sci-Fi",
       },
       {
-        optionText: "Biography",
-        value: "Biography",
+        optionText: "Nonfiction",
+        value: "Nonfiction",
       },
       {
         optionText: "Mystery",
