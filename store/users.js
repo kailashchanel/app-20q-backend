@@ -1,12 +1,12 @@
 const users = [
   {
     id: 1,
-    name: "Hello Judges",
-    email: "judge@domain.com",
+    name: "Judge 1",
+    email: "judge1@domain.com",
     password: "OHSHackathon2021",
     socials: {
-      snap: "judge_snap",
-      insta: "judges",
+      snap: "judge1_snap",
+      insta: "judge1",
     },
   },
   {
@@ -117,6 +117,36 @@ const users = [
     socials: {
       snap: "esther_snap",
       insta: "esther",
+    },
+  },
+  {
+    id: 13,
+    name: "Sample Teacher",
+    email: "teacher@domain.com",
+    password: "12345",
+    socials: {
+      snap: "teacher_snap",
+      insta: "teacher",
+    },
+  },
+  {
+    id: 14,
+    name: "Judge 2",
+    email: "judge2@domain.com",
+    password: "OHSHackathon2021",
+    socials: {
+      snap: "judge2_snap",
+      insta: "judge2",
+    },
+  },
+  {
+    id: 15,
+    name: "Judge 3",
+    email: "judge3@domain.com",
+    password: "OHSHackathon2021",
+    socials: {
+      snap: "judge3_snap",
+      insta: "judge3",
     },
   },
 ];
