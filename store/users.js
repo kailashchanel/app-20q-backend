@@ -79,6 +79,16 @@ const users = [
       insta: "laurenz",
     },
   },
+  {
+    id: 9,
+    name: "Averi Hunt",
+    email: "averi@domain.com",
+    password: "12345",
+    socials: {
+      snap: "averi_snap",
+      insta: "averi",
+    },
+  },
 ];
 
 const getUsers = () => users;
